@@ -1,0 +1,7 @@
+catalog: catalog_name
+schema: schema_name
+source_table: en_wiki_chunked
+vs_endpoint: your-vector-search-endpoint
+index_name: en_wiki_chunked_index
+model_name: vs_row_acl_model
+endpoint_name: vs_row_acl_endpoint
